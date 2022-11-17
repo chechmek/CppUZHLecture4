@@ -5,11 +5,13 @@ VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Range", "Range\Range.vcxproj", "{4F088988-D47B-48FB-AD06-E78B52455F15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindIfCsharp", "FindIfCsharp\FindIfCsharp.csproj", "{1CBD898A-0089-480D-B4D2-F406DC4DBD41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindIfCsharp", "FindIfCsharp\FindIfCsharp.csproj", "{1CBD898A-0089-480D-B4D2-F406DC4DBD41}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FindIfCpp", "FindIfCpp\FindIfCpp.vcxproj", "{70D04ED0-7F3A-4655-AB78-43B2A30759AB}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MergeStlContainers", "MergeStlContainers\MergeStlContainers.vcxproj", "{09A7B4E6-23ED-4F89-8640-E4ADC0570410}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BeetwenIterators", "BeetwenIterators\BeetwenIterators.vcxproj", "{3DDC95CA-22A7-4377-B3C8-3B9F4554E08C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,18 @@ Global
 		{09A7B4E6-23ED-4F89-8640-E4ADC0570410}.Release|x64.Build.0 = Release|x64
 		{09A7B4E6-23ED-4F89-8640-E4ADC0570410}.Release|x86.ActiveCfg = Release|Win32
 		{09A7B4E6-23ED-4F89-8640-E4ADC0570410}.Release|x86.Build.0 = Release|Win32
+		{3DDC95CA-22A7-4377-B3C8-3B9F4554E08C}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{3DDC95CA-22A7-4377-B3C8-3B9F4554E08C}.Debug|Any CPU.Build.0 = Debug|x64
+		{3DDC95CA-22A7-4377-B3C8-3B9F4554E08C}.Debug|x64.ActiveCfg = Debug|x64
+		{3DDC95CA-22A7-4377-B3C8-3B9F4554E08C}.Debug|x64.Build.0 = Debug|x64
+		{3DDC95CA-22A7-4377-B3C8-3B9F4554E08C}.Debug|x86.ActiveCfg = Debug|Win32
+		{3DDC95CA-22A7-4377-B3C8-3B9F4554E08C}.Debug|x86.Build.0 = Debug|Win32
+		{3DDC95CA-22A7-4377-B3C8-3B9F4554E08C}.Release|Any CPU.ActiveCfg = Release|x64
+		{3DDC95CA-22A7-4377-B3C8-3B9F4554E08C}.Release|Any CPU.Build.0 = Release|x64
+		{3DDC95CA-22A7-4377-B3C8-3B9F4554E08C}.Release|x64.ActiveCfg = Release|x64
+		{3DDC95CA-22A7-4377-B3C8-3B9F4554E08C}.Release|x64.Build.0 = Release|x64
+		{3DDC95CA-22A7-4377-B3C8-3B9F4554E08C}.Release|x86.ActiveCfg = Release|Win32
+		{3DDC95CA-22A7-4377-B3C8-3B9F4554E08C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
